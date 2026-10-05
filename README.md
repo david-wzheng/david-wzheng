@@ -8,10 +8,12 @@
 
 ### [CyLab Academy](https://learn.cylabacademy.org/users/Lord_Noodle)
 
+<!--
+### [Hack the Box](https://app.hackthebox.com/public/users/2350135)
+-->
+
 
 <!--
-**david-wzheng/david-wzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
