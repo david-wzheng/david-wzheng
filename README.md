@@ -1,4 +1,13 @@
-### Wow! A readme?
+# Hi, I'm David!
+
+## Certifications
+
+[![CompTIA Security+](https://img.shields.io/badge/-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white&labelColor=555555)](https://cp.certmetrics.com/CompTIA/en/public/verify/credential/y39c8znzhfeq173f)
+
+## CTFs
+
+### [CyLab Academy](https://learn.cylabacademy.org/users/Lord_Noodle)
+
 
 <!--
 **david-wzheng/david-wzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
